@@ -1,1 +1,2 @@
+环境：windows环境
 使用python编译器编译server.py，后进入端口8888的网站
